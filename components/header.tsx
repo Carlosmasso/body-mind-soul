@@ -35,7 +35,7 @@ export function Header() {
             href="/"
             className="font-serif text-2xl md:text-3xl font-medium text-foreground tracking-wide hover:text-primary transition-colors duration-300"
           >
-            Alma & Ser
+            Gaian
           </Link>
 
           {/* Desktop Navigation */}

@@ -11,7 +11,7 @@ export function Footer() {
           {/* Brand */}
           <div className="lg:col-span-1">
             <Link href="/" className="font-serif text-2xl font-medium text-foreground">
-              Alma & Ser
+              Gaian
             </Link>
             <p className="mt-4 text-sm text-muted-foreground leading-relaxed">
               Tu espacio de bienestar integral donde el cuidado del cuerpo, la mente y el alma se unen en armonía.
@@ -122,7 +122,7 @@ export function Footer() {
         <div className="pt-8 border-t border-border">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-muted-foreground">
-              © 2026 Alma & Ser. Todos los derechos reservados.
+              © 2026 Gaian. Todos los derechos reservados.
             </p>
             <div className="flex gap-6">
               <Link href="#" className="text-sm text-muted-foreground hover:text-foreground transition-colors duration-300">

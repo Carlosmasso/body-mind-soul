@@ -13,12 +13,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   
   if (!service) {
     return {
-      title: "Servicio no encontrado | Alma & Ser",
+      title: "Servicio no encontrado | Gaian",
     }
   }
 
   return {
-    title: `${service.title} | Alma & Ser`,
+    title: `${service.title} | Gaian`,
     description: service.description,
   }
 }

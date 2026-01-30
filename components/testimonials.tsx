@@ -8,7 +8,7 @@ const testimonials = [
   {
     name: "María García",
     role: "Terapia Individual",
-    content: "Encontré en Alma & Ser el espacio seguro que necesitaba para reconectar conmigo misma. Mi terapeuta me ha guiado con mucha empatía.",
+    content: "Encontré en Gaian el espacio seguro que necesitaba para reconectar conmigo misma. Mi terapeuta me ha guiado con mucha empatía.",
     rating: 5,
     avatar: "MG"
   },
